@@ -88,7 +88,7 @@ export default function Weather() {
       </div>
 
       <small>
-        <a href="https://github.com/Eyetsko/Weather-Application.git">
+        <a href="https://github.com/Eyetsko/React-Weather-App">
           Open-source code
         </a>
         by Emily Yetsko
