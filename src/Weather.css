@@ -1,0 +1,56 @@
+.weather-app {
+  padding: 20px;
+  border: 1px solid #dadde1;
+  border-radius: 10px;
+  background: radial-gradient(
+    592px at 48.2% 50%,
+    rgba(255, 255, 249, 0.6) 0%,
+    rgb(160, 199, 254) 74.6%
+  );
+}
+h1 {
+  font-size: 24px;
+  line-height: 28px;
+  margin-bottom: 0;
+  padding: 0px;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+img {
+  width: 40px;
+  position: relative;
+  bottom: 15px;
+}
+.units {
+  font-size: 15px;
+  position: relative;
+  bottom: 25px;
+}
+.temp {
+  font-size: 50px;
+}
+.description {
+  text-transform: capitalize;
+}
+li:first-letter {
+  text-transform: capitalize;
+}
+
+.searchBar {
+  padding-bottom: 5px;
+}
+
+#future-weather {
+  font-size: 12px;
+}
+#current-button {
+  background-color: blue;
+}
+#search-button {
+  background-color: blue;
+}
